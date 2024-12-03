@@ -65,7 +65,7 @@ The **Client**:
 
 1. **Clone or Download the Project**:
    ```bash
-   git clone https://github.com/<your-repo-name>/tcp-chat-room.git
+   git clone https://github.com/Lavdeep-Singh/tcp-chat-room.git
    cd tcp-chat-room
    ```
 
